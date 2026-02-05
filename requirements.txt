@@ -1,0 +1,42 @@
+# FastAPI and Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+snowflake-connector-python
+snowflake-sqlalchemy
+sqlalchemy
+
+# LLM Integration
+anthropic
+openai # For Azure OpenAI and OpenAI
+
+# HTTP Client
+httpx
+aiohttp
+
+# Machine Learning
+scikit-learn
+numpy
+pandas
+
+# Security & Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# Utilities
+python-dotenv
+loguru
+
+# Testing
+pytest
+pytest-asyncio
+
+# CORS
+python-cors
+
+# Streamlit Frontend
+streamlit
